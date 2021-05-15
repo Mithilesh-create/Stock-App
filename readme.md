@@ -6,7 +6,10 @@ Go to "Front" folder by writing -"cd front" in the terminal
 then run "npm install" command to install all the dependencies
 ===============================================================================
 
-After installing all the dependencies 
+After installing all the dependencies of front folder
+Come back outside to APP.PY
+now install beautiful soup
+"pip install beautifulsoup4"
 ===============================================================================
 
 Run the app.py in one terminal(you should be outside front folder)
