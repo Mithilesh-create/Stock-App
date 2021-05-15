@@ -10,6 +10,8 @@ After installing all the dependencies of front folder
 Come back outside to APP.PY
 now install beautiful soup
 "pip install beautifulsoup4"
+now install flask
+"pip install Flask"
 ===============================================================================
 
 Run the app.py in one terminal(you should be outside front folder)
